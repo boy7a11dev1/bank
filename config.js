@@ -1,7 +1,7 @@
 const ms = require('ms');
 
 module.exports = {
-  token: 'MTQwMDQ4NzgyODcwOTgzNDc3Mg.GWWlUX.jprJkZhqaF2eOhfhyF62T3G0GZYKnaxszPz-GQ', // التوكن
+  token: 'token', // التوكن
   allowedChannelId: '1400487613936439376', // ايدي روم خاص للبنك
   voiceChannelId: '1400216268186976509', // ← غيّر هذا إلى ID الروم الصوتي
 
